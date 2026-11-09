@@ -28,6 +28,6 @@ Les workflows se trouvent dans le dossier `.github/workflows`.
 
 Onglet **Actions** du dépôt, puis clic sur une exécution pour voir le détail de chaque job et de chaque step.
 
-## Autrice
+
 
 Charlotte Queijo
